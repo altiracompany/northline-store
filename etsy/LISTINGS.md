@@ -1,2 +1,3 @@
-NORTHLINE PRESS Etsy shop pack lives in the download zip from this chat: 5 printable PDFs, 5 listing covers, titles/tags/prices.
-Shop name: NorthlinePress. Digital only. Personal use license.
+Etsy handle: TheNorthBuy (etsy.com/shop/TheNorthBuy)
+Public brand: NORTHLINE PRESS
+Keep NORTHLINE PRESS on PDFs and listing photos. Do not reprint files.
