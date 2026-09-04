@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body {
+  background: #f4efe6;
+  color: #1c1915;
+}
+
+.product-cover {
+  background-image: radial-gradient(circle at 20% 20%, rgba(255, 255, 255, 0.12), transparent 40%),
+    linear-gradient(160deg, var(--from, #4a5340), #1c1915);
+}
